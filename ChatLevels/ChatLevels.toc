@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Chat Levels
+## Notes: Adds level to guild chat messages and whispers from guild members in WOTLK
+## Author: HolyRoute
+## Version: 2.0
+
+ChatLevels.lua
